@@ -1,5 +1,5 @@
-var num1 = 10
-var num2 = 20
+var num1 = 30
+var num2 = 170
 
 function somar(a, b){
     return a + b
